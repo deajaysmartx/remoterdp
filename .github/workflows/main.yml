@@ -16,4 +16,4 @@ jobs:
     - name: Run Index Script
       run: |
         chmod +x index.sh
-       
+        ./index.sh
