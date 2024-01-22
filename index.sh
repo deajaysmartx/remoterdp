@@ -16,7 +16,7 @@ wget -O win.iso "https://drive.massgrave.dev/en-us_windows_server_2022_updated_d
 tar -xf ngrok.tgz
 
 # Set ngrok authtoken
-./ngrok authtoken 2bHsKdHvVgST30Aq0bRjllRVatE_5engCTUhF3ijG5yNawWAG
+./ngrok authtoken 2bHvatkXLyM59n19Jj7tf34q8Rs_59om3hXEB7Bko2pmPK7Hq
 
 # Start ngrok tunnel
 ./ngrok tcp 5900 &
